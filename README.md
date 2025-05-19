@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jstephen95
 - 👀 I’m interested in Exploring new ideas for growth
-- 🌱 I’m currently learning Data Analysis with Python and SQL
+- 🌱 I’m a Data Analyst with experience in using tools like Python, SQL, Power BI, Microsoft Excel
 - 📫 You can reach me via stephenjoshua64@gmail.com
 
 <!---
